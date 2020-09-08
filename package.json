@@ -1,0 +1,23 @@
+{
+  "name": "MultipleTx",
+  "version": "1.0.0",
+  "description": "This repos holds smart contract that allows users (Sender) to make multiple transaction with different amount to multiple recipients.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sam-Devs/Multiple-Transaction-Contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sam-Devs/Multiple-Transaction-Contract/issues"
+  },
+  "homepage": "https://github.com/Sam-Devs/Multiple-Transaction-Contract#readme"
+}
